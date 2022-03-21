@@ -1,5 +1,5 @@
 {
-  "name": "CatUserbot",
+  "name": "CatUserbot Giada",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
   "logo": "https://telegra.ph/file/3d60313110c58684b31ea.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/paolo1234/nekopack/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
